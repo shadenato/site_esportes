@@ -1,0 +1,61 @@
+p.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
+    font-size: 16px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: #344618;
+    color: rgb(255, 255, 255);
+    text-indent: 50px;
+}
+
+p.titulo_menor {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
+    font-size: 14px;
+    font-weight: bolder;
+    color: #75450a;
+    text-indent: 50px;
+}
+
+p.texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
+    font-size: 14px;
+    text-indent: 50px;
+}
+
+p.texto_itens {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
+    font-size: 14px;
+}
+
+p.titulo_menor_itens {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
+    font-size: 14px;
+    font-weight: bolder;
+    color: #75450a;
+}
+
+ul {
+    list-style-image: url('itens.png');
+}
+
+img.times {
+    clip-path: circle(90%);
+    width: 200px;
+    height: 200px;
+}
+
+img.times {
+    border: 1px solid #344618;
+    border-radius: 4px;
+    padding: 5px;
+    height: 20%;
+    width: 20%;
+}
+
+a {
+    color: #F2F2F2;
+}
+
+span {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
